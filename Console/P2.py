@@ -14,4 +14,10 @@ carry_license= True
 if carry_license:
  print("You can Drive")
 else:
- print("You can't Drive")
+ print("You can't Drive") 
+
+if carry_license:
+ print("You can Drive")
+else:
+ print("You can't Drive") 
+
